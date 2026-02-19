@@ -19,11 +19,9 @@
 ### Question 4 – Key Points to Build Growth Mindset
 
 1. Believe skills can be developed.
-2. Accept and embrace challenges.
+2. Accept the challenges.
 3. Learn from mistakes and failures.
 4. Seek and apply feedback.
-5. Persist even when facing difficulties.
-6. See effort as necessary for improvement.
 
 ### Question 5 – My Actions to Build Growth Mindset
 
@@ -31,4 +29,3 @@
 2. Take on challenging tasks instead of avoiding them.
 3. Treat mistakes as learning opportunities.
 4. Ask for feedback and improve based on it.
-5. Take responsibility for my progress and results.
