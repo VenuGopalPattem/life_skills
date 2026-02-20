@@ -38,19 +38,18 @@
 - Make the habit tiny parts.
 - Make it simple and small.
 - Follow the two-minute rule.
-- Prepare tools in advance so starting is easy.
+- Archve the Cue, Craving, Response, Reward
 
 ### Question 7 - Write about the book's perspective on how to make a habit harder to do?
 
 - Make the bad habit invisible.
-- Increase friction and difficulty.
 - Remove triggers from the environment.
 - Add delay before doing the habit.
 - Make it less satisfying or add small consequences.
 
 ### Question 8 - Pick one habit that you would like to do more of? What are the steps that you can take to make it make the cue obvious or the habit more attractive or easy and or response satisfying?
 
-- Habit I want to improve: Daily coding practice.
+- Habit I want to improve is Daily coding practice.
 - Keep laptop ready to make cue obvious.
 - Start with 20 minutes to keep it easy.
 - Track progress daily.
